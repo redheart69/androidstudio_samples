@@ -25,6 +25,7 @@ import java.util.HashSet;
  * 달력의 메인 화면 엑티비티
  */
 public class MainActivity extends AppCompatActivity {
+    //
     //Fragment 페이지 넘버 이전달 : 0 , 이번달 : 1 , 다음달 : 2
     private static final int SECTION_NUMBER_PRE_MONTH = 0;
     private static final int SECTION_NUMBER_CURRENT_MONTH = 1;
